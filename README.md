@@ -10,7 +10,6 @@
 ### Мой стек:
 
 ![react](https://img.shields.io/badge/-ReactJS-090909?style=flat&logo=react)
-![react](https://img.shields.io/badge/-ReactJS-090909?style=flat&logo=react)
 ![javascript](https://img.shields.io/badge/-JavaScript-090909?style=flat&logo=javascript)
 ![css](https://img.shields.io/badge/-CSS3-090909?style=flat&logo=css3)
 ![html](https://img.shields.io/badge/-HTML5-090909?style=flat&logo=html5)
