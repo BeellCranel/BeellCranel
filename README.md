@@ -10,7 +10,7 @@
 
 ### Мой стек:
 
-![react](https://img.shields.io/badge/-ReactJS-090909?style=flat&logo=react)
+![react](https://img.shields.io/badge/-React-090909?style=flat&logo=react)
 ![NodeJs](https://img.shields.io/badge/-Node.js-090909?style=flat&logo=node.js)
 ![javascript](https://img.shields.io/badge/-JavaScript-090909?style=flat&logo=javascript)
 ![css](https://img.shields.io/badge/-CSS3-090909?style=flat&logo=css3)
@@ -18,8 +18,6 @@
 ![express](https://img.shields.io/badge/-express-090909?style=flat&logo=express)
 ![mongoose](https://img.shields.io/badge/-mongoose-090909?style=flat&logo=mongodb)
 ![git](https://img.shields.io/badge/-git-090909?style=flat&logo=git)
-![webpack](https://img.shields.io/badge/-Webpuck-090909?style=flat&logo=webpack)
-![npm](https://img.shields.io/badge/-npm-090909?style=flat&logo=npm)
 
 ### Моя статистика:
 
